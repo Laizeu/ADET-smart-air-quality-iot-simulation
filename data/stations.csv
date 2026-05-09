@@ -1,0 +1,6 @@
+station_id,name,traffic,zone,city
+STN-EDSA-01,EDSA-Guadalupe,Very High,Commercial,Quezon City
+STN-ESP-02,España-UST,High,Urban,Manila
+STN-C5-03,C5-Pasig,Mixed,Arterial,Pasig
+STN-QUI-04,Quiapo-Plaza Miranda,Very High,Urban Core,Manila
+STN-UPD-05,UP Diliman,Low,Green Zone,Quezon City

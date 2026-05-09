@@ -1,0 +1,11 @@
+sensor_id,station_id,sensor_type,model,status
+AQM-001,STN-EDSA-01,Air Quality,IoT-SIM-2026,Active
+MET-001,STN-EDSA-01,Weather,IoT-SIM-2026,Active
+AQM-002,STN-ESP-02,Air Quality,IoT-SIM-2026,Active
+MET-002,STN-ESP-02,Weather,IoT-SIM-2026,Active
+AQM-003,STN-C5-03,Air Quality,IoT-SIM-2026,Active
+MET-003,STN-C5-03,Weather,IoT-SIM-2026,Active
+AQM-004,STN-QUI-04,Air Quality,IoT-SIM-2026,Active
+MET-004,STN-QUI-04,Weather,IoT-SIM-2026,Active
+AQM-005,STN-UPD-05,Air Quality,IoT-SIM-2026,Active
+MET-005,STN-UPD-05,Weather,IoT-SIM-2026,Active
